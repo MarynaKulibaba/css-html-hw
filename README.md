@@ -1,1 +1,1 @@
-# css-html-hw
+This project is a template for creating a professional resume. The project is built using  technologies such as Gulp, Bootstrap, which makes it easy to customize and extend the functionality of the template.
